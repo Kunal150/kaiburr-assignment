@@ -1,4 +1,5 @@
-# Studentdashboard
+# ui for kaibur ![Screenshot (3)](https://user-images.githubusercontent.com/67556367/163684086-223b1cd4-1ec6-4b7c-a327-4d3e744cc7e6.png)
+dashboard
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.6.
 
